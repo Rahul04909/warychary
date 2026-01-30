@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "razorpay/razorpay": "^2.9",
+        "dompdf/dompdf": "^3.1",
+        "summernote/summernote": "^0.8.8",
+        "phpoffice/phpspreadsheet": "^5.1",
+        "mike42/escpos-php": "^2.2",
+        "picqer/php-barcode-generator": "^3.2",
+        "endroid/qr-code": "^6.0",
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
