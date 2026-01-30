@@ -12,8 +12,8 @@ if (!extension_loaded('pdo_mysql')) {
 
 class Database {
     private $host = "localhost";
-    private $db_name = "jghfrodu_sukhgill";
-    private $username = "jghfrodu_sukhgill";
+    private $db_name = "sukh_gill-3139374b6b";
+    private $username = "sukh_gill-3139374b6b";
     private $password = "Rd14072003@./";
     public $conn;
 
