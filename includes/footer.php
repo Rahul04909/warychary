@@ -121,7 +121,7 @@
             <div class="footer-section">
                 <h3>Contact Info</h3>
                 <p>Email: support@warychary.com</p>
-                <p>Phone: +91-7988472662</p>
+                <p>Phone: +91-9813716032</p>
                 <p>Address: Hissar, Haryana, India</p>
                 <div class="social-icons">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
